@@ -1,0 +1,36 @@
+body{
+    max-width: 800px;
+    margin: 20px auto ;
+    padding: 20px;
+    background: #fff;
+    box-shadow:4px  rgba(0, 0, 0, 0.1);
+    border: 3px solid #0a0a0a; /* Couleur et taille du cadre */
+    display:block;
+    
+}
+header {
+     
+    border-top: 3px solid #0e0f11; /* Trait solide juste en haut du header */
+    width: 70%;
+    margin: 40px 40px 0px;
+}
+section {
+    margin-bottom: 20px;
+    padding: 0 40px; /* Espace intérieur pour chaque section */
+}
+section ul {
+    margin-bottom: 20px;
+    padding: 0 15px; /* Espace intérieur pour chaque section */
+}
+h1{
+    margin-bottom: 20px;
+    padding: 0 40px; /* Espace intérieur pour chaque section */
+}
+section h4 {
+    font-family: 'Times New Roman', sans-serif;
+    color: #60B570;
+}
+section h3 {
+    font-family: 'Times New Roman', sans-serif;
+    color: #4E92D0;
+}
