@@ -1,5 +1,5 @@
-body{
-    max-width: 800px;
+body main{
+    max-width: 700px;
     margin: 20px auto ;
     padding: 20px;
     background: #fff;
@@ -8,11 +8,11 @@ body{
     display:block;
     
 }
-header {
+hr {
      
     border-top: 3px solid #0e0f11; /* Trait solide juste en haut du header */
-    width: 70%;
-    margin: 40px 40px 0px;
+    width: 80%;
+    margin: 40px 0px 0px 0px;
 }
 section {
     margin-bottom: 20px;
@@ -24,13 +24,12 @@ section ul {
 }
 h1{
     margin-bottom: 20px;
-    padding: 0 40px; /* Espace intérieur pour chaque section */
 }
 section h4 {
     font-family: 'Times New Roman', sans-serif;
     color: #60B570;
 }
-section h3 {
+section p {
     font-family: 'Times New Roman', sans-serif;
     color: #4E92D0;
 }
